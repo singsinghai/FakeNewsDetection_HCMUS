@@ -1,0 +1,6 @@
+scikit-learn
+underthesea
+tensorflow
+regex
+numpy
+

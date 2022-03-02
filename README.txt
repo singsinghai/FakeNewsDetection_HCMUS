@@ -1,0 +1,5 @@
+- File requirement: Chứa các thư viện mở rộng chúng em sử dụng trong bài làm
+- File preprocessing.py và pipeline.py: 2 file dùng để hỗ trợ chạy notebook và streamlit
+- File Model_builder.ipynb: Dùng để đọc tập dữ liệu, xây dựng và lưu trữ các model, cũng như kèm báo cáo chi tiết
+- Các file còn lại: Các file được tạo ra để sử dụng và hỗ trợ quá trình build model
+- File streamlit_app.py: Trang web đã được deploy để TA thực hiện test các model (chi tiết có trong báo cáo)
